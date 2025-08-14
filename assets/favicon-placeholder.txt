@@ -1,0 +1,4 @@
+<!-- Placeholder for favicon.ico -->
+<!-- You can generate a favicon from your profile photo or create a simple icon -->
+<!-- Use online tools like favicon.io or realfavicongenerator.net -->
+<!-- This file should be replaced with an actual .ico file -->

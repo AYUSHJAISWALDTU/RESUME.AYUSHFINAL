@@ -1,0 +1,25 @@
+{
+  "name": "ayush-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Ayush Jaiswal",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "live-server --port=8000",
+    "dev-backend": "cd backend && npm run dev",
+    "build": "echo 'Frontend is static HTML/CSS/JS - no build needed'",
+    "heroku-postbuild": "cd backend && npm install",
+    "deploy": "./deploy.sh"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "keywords": ["portfolio", "resume", "html", "css", "javascript", "nodejs", "express"],
+  "author": "Ayush Jaiswal",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  }
+}

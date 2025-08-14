@@ -1,0 +1,17 @@
+📸 PHOTO INSTALLATION - Your Portfolio is Ready!
+
+🎯 TO ADD YOUR PHOTO RIGHT NOW:
+1. Copy: /Users/akjaiswal/Desktop/ALL DATA/imsgr,im.jpeg
+2. Paste here: /Users/akjaiswal/Desktop/resume/assets/
+3. Rename to: Ayush.png
+4. Refresh browser at: http://localhost:8001
+
+💡 YOUR PHOTO WILL APPEAR IN:
+✅ Hero section (main profile)
+✅ Navigation area 
+✅ All mobile/tablet views
+
+📏 NO NEED TO RESIZE - Auto-optimized!
+
+🔄 TO CHANGE LATER:
+Just replace Ayush.png with any new photo

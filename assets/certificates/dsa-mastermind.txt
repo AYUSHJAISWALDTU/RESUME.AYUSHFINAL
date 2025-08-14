@@ -1,0 +1,7 @@
+This is a sample certificate file for DSA MasterMind.
+This would normally be a PDF with your actual certificate.
+
+To add your real certificate:
+1. Save your certificate as: dsa-mastermind.pdf
+2. Replace this file
+3. Download will work automatically!

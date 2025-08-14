@@ -1,0 +1,21 @@
+{
+    "name": "Ayush Jaiswal - Portfolio",
+    "short_name": "Ayush Portfolio",
+    "description": "B.Tech CSE Student at DTU | AI/ML & Full-Stack Developer",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0B1F3A",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "./assets/Ayush.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["portfolio", "developer", "student"],
+    "lang": "en",
+    "dir": "ltr"
+}
